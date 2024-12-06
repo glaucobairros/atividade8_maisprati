@@ -42,14 +42,14 @@ Este projeto contém uma série de exercícios básicos em Java, projetados para
 ### 6. Jogo da Adivinhação
 **Descrição:** O programa escolhe aleatoriamente um número entre 1 e 50, e o usuário deve adivinhar o número. O programa informa se o palpite está correto ou errado. O jogo termina quando o usuário acerta o número.
 
-**Arquivo:** `JogoAdivinhacao.java`
+**Arquivo:** `AdivinhaNumero.java`
 
 ---
 
 ### 7. Contar Palavras
 **Descrição:** O programa lê uma frase fornecida pelo usuário e conta o número de palavras na frase. As palavras são consideradas separadas por espaços em branco.
 
-**Arquivo:** `ContarPalavras.java`
+**Arquivo:** `ContaPalavras.java`
 
 ---
 
